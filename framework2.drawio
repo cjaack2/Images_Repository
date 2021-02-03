@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T03:41:07.052Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="bChos_5T-Alq73jggw83" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T03:45:13.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="LkQmT0_tEeGpJYdbfY0X" version="14.2.9" type="github">
   <diagram id="xwpSypxVo-qvQC3v7Vhw" name="Page-1">
     <mxGraphModel dx="754" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zwwpV-oR1FDmDDmUrEG6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="440" width="620" height="680" as="geometry" />
+        <mxCell id="zwwpV-oR1FDmDDmUrEG6-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="440" width="570" height="650" as="geometry" />
         </mxCell>
         <mxCell id="zwwpV-oR1FDmDDmUrEG6-10" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="480" width="530" height="130" as="geometry" />
@@ -54,6 +54,21 @@
         </mxCell>
         <mxCell id="zwwpV-oR1FDmDDmUrEG6-32" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;.....&lt;/span&gt;&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_partition_2.svg;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="945.4" width="80" height="59.2" as="geometry" />
+        </mxCell>
+        <mxCell id="zwwpV-oR1FDmDDmUrEG6-35" value="&lt;font color=&quot;#3399ff&quot;&gt;系统首页&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workspaces;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="693.25" width="82.5" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zwwpV-oR1FDmDDmUrEG6-37" value="&lt;font color=&quot;#3399ff&quot;&gt;招商引资管理&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_transcoder;fillColor=#D9A741;gradientColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="692.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="zwwpV-oR1FDmDDmUrEG6-38" value="&lt;font color=&quot;#3399ff&quot;&gt;系统配置管理&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_discovery_service;fillColor=#5294CF;gradientColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="692.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="zwwpV-oR1FDmDDmUrEG6-39" value="&lt;font color=&quot;#3399ff&quot;&gt;企业服务管理&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="692.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="zwwpV-oR1FDmDDmUrEG6-43" value="&lt;font color=&quot;#3399ff&quot;&gt;....&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.step_functions;fillColor=#D9A741;gradientColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="597" y="693" width="76.5" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
