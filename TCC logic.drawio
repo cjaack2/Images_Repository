@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T02:07:49.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="NPbQYHdkjjmqYfBK4Okv" version="14.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T02:08:12.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Jxl4P47hbfnAGsm5K-4P" version="14.5.6" type="github">
   <diagram id="Xjajh6PyF_--wuyvjVOl" name="Page-1">
-    <mxGraphModel dx="2066" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="3" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="3" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,10 +46,10 @@
         <mxCell id="WqFntXkbbm4SxVUoHO8X-15" value="Try是否成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=15;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="940" y="280" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WqFntXkbbm4SxVUoHO8X-18" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 18px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;try成功则confirm必定成功&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#7F00FF;" vertex="1" parent="1">
+        <mxCell id="WqFntXkbbm4SxVUoHO8X-18" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Try成功则Confirm必定成功&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#7F00FF;" vertex="1" parent="1">
           <mxGeometry x="1250" y="240" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WqFntXkbbm4SxVUoHO8X-19" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Try失败则进入cancel阶段，进行资源的回滚&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#7F00FF;" vertex="1" parent="1">
+        <mxCell id="WqFntXkbbm4SxVUoHO8X-19" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;Try失败则进入Cancel阶段，进行资源的回滚&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;fontColor=#7F00FF;" vertex="1" parent="1">
           <mxGeometry x="1280" y="550" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
