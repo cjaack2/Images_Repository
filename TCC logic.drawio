@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T01:57:23.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="uskQlQSllUXf3S5PgFpn" version="14.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T01:57:42.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="w4sh1ybWEklKI6efPRUI" version="14.5.6" type="github">
   <diagram id="Xjajh6PyF_--wuyvjVOl" name="Page-1">
     <mxGraphModel dx="2066" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="3" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,8 +27,8 @@
         <mxCell id="WqFntXkbbm4SxVUoHO8X-7" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;锁定资源，检查是否成功&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="440" y="380" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WqFntXkbbm4SxVUoHO8X-8" value="TCC基本逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="430" y="90" width="170" height="20" as="geometry" />
+        <mxCell id="WqFntXkbbm4SxVUoHO8X-8" value="TCC基本逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#7F00FF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="110" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WqFntXkbbm4SxVUoHO8X-9" value="回滚资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1130" y="540" width="140" height="30" as="geometry" />
