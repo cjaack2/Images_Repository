@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T01:52:10.060Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.6" etag="UOfRnuGBpfKgdoBUvw1J" type="github"><diagram id="Xjajh6PyF_--wuyvjVOl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-06T01:57:23.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="uskQlQSllUXf3S5PgFpn" version="14.5.6" type="github">
+  <diagram id="Xjajh6PyF_--wuyvjVOl" name="Page-1">
+    <mxGraphModel dx="2066" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="3" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WqFntXkbbm4SxVUoHO8X-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="WqFntXkbbm4SxVUoHO8X-1" target="WqFntXkbbm4SxVUoHO8X-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WqFntXkbbm4SxVUoHO8X-6" value="try成功则confirm必定成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="WqFntXkbbm4SxVUoHO8X-4">
+          <mxGeometry x="0.1699" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqFntXkbbm4SxVUoHO8X-5" value="Try失败则进入cancel阶段" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="WqFntXkbbm4SxVUoHO8X-1" target="WqFntXkbbm4SxVUoHO8X-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WqFntXkbbm4SxVUoHO8X-1" value="Try" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqFntXkbbm4SxVUoHO8X-2" value="Cancel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqFntXkbbm4SxVUoHO8X-3" value="Confirm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WqFntXkbbm4SxVUoHO8X-7" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;锁定资源，检查是否成功&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="440" y="380" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WqFntXkbbm4SxVUoHO8X-8" value="TCC基本逻辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="430" y="90" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WqFntXkbbm4SxVUoHO8X-9" value="回滚资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="540" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
