@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-04-12T08:19:10.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="1DOl9dWUuGSsCHs7SlPN" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-12T08:23:34.050Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="u2Ym2AwBTEzp2A_c9FGE" version="14.5.8" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="813" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="6a7d8f32e03d9370-61" value="内部数据区" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-61" value="大数据处理区" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1084" y="296" width="493" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-60" value="统一网关" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-60" value="统一接口整合与分发" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="937" y="764" width="602" height="374" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-59" value="堡垒机" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-59" value="统一网关" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="599" y="98" width="280" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-58" value="智慧企业移动端" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
@@ -108,7 +108,7 @@
         <mxCell id="6a7d8f32e03d9370-14" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.xenclient_synchronizer;fillColor=#CCCCCC;gradientColor=#000000;gradientDirection=south;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="636.9999999999999" y="976" width="76" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-15" value="Web Server" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-15" value="统一用户鉴权" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.cache_server;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="965" y="272" width="71" height="97.5" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-16" value="DNS" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.chassis;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
@@ -165,13 +165,13 @@
         <mxCell id="6a7d8f32e03d9370-26" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.switch;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1175" y="508" width="92" height="41.5" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-27" value="Client" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.thin_client;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-27" value="Broker" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.thin_client;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="1437" y="498" width="71" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-28" value="Client" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.thin_client;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-28" value="Broker" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.thin_client;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="1359" y="374" width="71" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-29" value="Client" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.thin_client;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-29" value="Broker" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;shape=mxgraph.citrix.thin_client;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="1203" y="338" width="71" height="71" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-49" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="6a7d8f32e03d9370-30" target="6a7d8f32e03d9370-13" edge="1">
