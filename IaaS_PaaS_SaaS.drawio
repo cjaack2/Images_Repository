@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T03:36:09.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" version="14.6.5" etag="60Q89yK-QnG62g0Hvr0L" type="github"><diagram id="4a8mf98cd5VFeS7SsvKW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-29T04:03:27.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="-u66CAOoWZIDGV0XKmCs" version="14.6.5" type="github">
+  <diagram id="4a8mf98cd5VFeS7SsvKW" name="Page-1">
+    <mxGraphModel dx="786" dy="4637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="3" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="1010" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-1" value="ECS服务器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="590" y="540" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-2" value="OSS服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="380" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-3" value="上线云上商城&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-4" value="ECS服务器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="820" y="540" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-5" value="ECS服务器" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="370" y="540" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-6" value="IaaS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="250" y="585" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-9" value="PaaS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-10" value="日志服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="510" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-11" value="短信服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-12" value="支付服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="790" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-13" value="地图服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="920" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-14" value="硬件资源：云服务器，带宽，GPU，内存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="410" y="670" width="550" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-15" value="网上商城IMall&amp;nbsp;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="475" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-17" value="淘宝" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="445" y="-30" width="475" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-18" value="第三方服务：短信，存储，日志，地图等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="420" y="460" width="520" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-23" value="SaaS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="240" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-24" value="软件即服务：用户只需要注册就能使用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="410" y="70" width="520" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NCMvuH288sw9Z2hzMpmZ-25" value="自行研发，在ECS服务器上部署，并使用第三方SDK调用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="415" y="310" width="520" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
